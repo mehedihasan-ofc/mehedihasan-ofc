@@ -1,4 +1,6 @@
-https://images.pexels.com/photos/1181271/pexels-photo-1181271.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1
+<div align="center">
+<img src="https://images.pexels.com/photos/1181271/pexels-photo-1181271.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" align="center" style="width: 100%" />
+</div>
 
 ### Hi there 👋, I'm Mehedi Hasan
 #### Web Developer
